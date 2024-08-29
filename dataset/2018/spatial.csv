@@ -1,0 +1,14 @@
+"Station.name","Latitude","Longitude","Array","Section","Type","Standard.name","x.29902","y.29902"
+"Bellisle",55.1095,-6.4454,"A1","River","Hydrophone","St.1",299262,430242
+"Layde",55.2014,-6.5243,"A2","River","Hydrophone","St.2",294010,440363
+"Sewage works",55.2104,-6.5317,"A3","River","Hydrophone","St.3",293518,441355
+"Golf Course",55.2196,-6.5319,"A4","River","Hydrophone","St.4",293484,442379
+"Runkerry bay 1",55.2216,-6.5416,"A5","Sea","Hydrophone","St.5",292862,442588
+"Runkerry bay 2",55.2243,-6.5418,"A5","Sea","Hydrophone","St.6",292843,442889
+"Runkerry bay 3",55.2263,-6.5389,"A5","Sea","Hydrophone","St.7",293023,443115
+"Runkerry bay 4",55.228,-6.5361,"A5","Sea","Hydrophone","St.8",293197,443308
+"Outer bay 1",55.2234,-6.5556,"A6","Sea","Hydrophone","St.9",291967,442770
+"Outer bay 2",55.2261,-6.5574,"A6","Sea","Hydrophone","St.10",291846,443068
+"Outer bay 3",55.2285,-6.5553,"A6","Sea","Hydrophone","St.11",291974,443338
+"Trap",55.202706,-6.5231,"A3",NA,"Release","Trap",294084,440510
+"Cross",55.1006,-6.4053,"A1",NA,"Release","Cross",301843,429309
