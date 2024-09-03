@@ -11,6 +11,9 @@
 #
 # This script works as a preface for the remaining scripts we'll work with next.
 
+# set your work directory to the folder containing the workshop data and scripts
+setwd("your/path/to/workshop/folder") # modify this line before running!
+
 # 1.1) load needed packages/scripts -----------------------
   source("https://raw.githubusercontent.com/hugomflavio/effective-fiesta/main/Random_R_Functions/mean_table.R")
   library("actel")
