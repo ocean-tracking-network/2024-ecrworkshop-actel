@@ -1,5 +1,8 @@
 library("actel")
 
+# set your work directory to the 2018 data folder
+setwd("your/path/to/this/folder") # modify this line before running!
+
 load("../bush_transition_layer.RData")
 distancesMatrix(tl, coord.x = "x.29902", coord.y = "y.29902")
 
