@@ -1,5 +1,8 @@
 library("actel")
 
+# set your work directory to the 2014 data folder
+setwd("your/path/to/this/folder") # modify this line before running!
+
 water <- shapeToRaster(shape = "../bush_study_area_for_distances_epsg29902.shp", size = 5,
 					   coord.x = "x.29902", coord.y = "y.29902")
 tl <- transitionLayer(water)
